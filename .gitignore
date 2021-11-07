@@ -23,5 +23,8 @@
 hs_err_pid*
 *.prefs
 .classpath
-.DS_Store
+.factorypath
 .project
+*.prefs
+target/*
+.DS_Store
